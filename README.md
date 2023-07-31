@@ -23,4 +23,4 @@ Esta página fue creada con:
 ## Contacto
 
 Desarrollado por: 
-[Carmen Dessiré González Bibiesca]([https://github.com/AngelesIB](https://www.linkedin.com/in/carmen-dessir%C3%A9-gonz%C3%A1lez-bibiesca-b72aa7258/)https://www.linkedin.com/in/carmen-dessir%C3%A9-gonz%C3%A1lez-bibiesca-b72aa7258/).  en Tecnolochicas PRO Summer Camp.
+[Carmen Dessiré González Bibiesca]([https://github.com/AngelesIB](https://www.linkedin.com/in/carmen-dessir%C3%A9-gonz%C3%A1lez-bibiesca-b72aa7258/)https://www.linkedin.com/in/carmen-dessir%C3%A9-gonz%C3%A1lez-bibiesca-b72aa7258/) en Tecnolochicas PRO Summer Camp.
