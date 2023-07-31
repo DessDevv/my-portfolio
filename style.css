@@ -1,0 +1,154 @@
+/* Estilos para la página principal */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bg-rosa-pastel {
+  background-color: #f5c9d0; /* Color rosa pastel */
+}
+
+/* Ajustes para el header */
+header {
+  background-color: #f5c9d0; /* Color rosa pastel */
+}
+
+.nav-link {
+  color: #b36270 !important; /* Color rosa pastel para los enlaces del menú */
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+  background-color: transparent;
+  border-bottom: 3px solid #b36270; /* Color rosa pastel para el borde activo */
+}
+
+/* Ajustes para el perfil */
+#typewriter {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  color: #b36270; /* Color rosa pastel para el texto */
+  font-size: 24px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/* Ajustes para las secciones de mi página */
+.texto-rosa-pastel {
+  color: #b36270; /* Color rosa pastel para el texto */
+}
+
+/* Ajustes para el footer de contacto */
+footer {
+  background-color: #f5c9d0; /* Color rosa pastel */
+}
+
+footer a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #f8f8f8;
+}
+
+.btn-outline-light {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.btn-outline-light:hover {
+  background-color: #ffffff;
+  color: #b36270; /* Color rosa pastel para el texto del botón al pasar el cursor */
+}
+
+/* Ajustes para la animación Typewriter */
+#typewriter {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  color: #b36270; /* Color rosa pastel para el texto */
+  font-size: 24px;
+  white-space: nowrap; /* Evita que el texto se rompa en líneas */
+  overflow: hidden; /* Oculta el texto que desborda el recuadro */
+}
+
+/* Estilos para el footer de contacto */
+footer {
+  background-color: #f5c9d0; /* Color rosa pastel */
+}
+
+footer a {
+  color: #f5c9d0;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #f5c9d0;
+}
+
+.btn-outline-light {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.btn-outline-light:hover {
+  background-color: #ffffff;
+  color: #b36270; /* Color rosa pastel para el texto del botón al pasar el cursor */
+}
+
+/* Estilos adicionales */
+#img-perfil {
+  width: 200px;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
+#img-stack {
+  width: 300px;
+}
+
+.bg-primary {
+  background-color: #c2949d !important;
+}
+
+.bg-light {
+  background-color: #F8F8F8 !important;
+}
+
+.text-primary {
+  color: #b36270 !important;
+}
+
+.titulo-proyecto {
+  text-shadow: 2px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.carousel-item {
+  height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: #fd9843;
+  height: 5px;
+}
+
+.carousel-caption {
+  color: black;
+}
+
+.icono {
+  width: 50px;
+}
+
+/* Estilos para el footer con rosa fuerte */
+.bg-rosa-fuerte {
+  background-color: #c2949d; /* Color rosa fuerte */
+}
+
