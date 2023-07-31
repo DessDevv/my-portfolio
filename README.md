@@ -10,7 +10,7 @@ Incluye una descripción de su motivación, experiencia, proyectos, artículos p
 
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 
-## ✨ Tecnologías ✨
+## ✨Tecnologías✨
 
 Esta página fue creada con:
 
@@ -20,7 +20,7 @@ Esta página fue creada con:
 * 🌷 Bootstrap 5
 
 
-## 🐺Contacto🐺
+## Contacto
 
 Desarrollado por: 
 [Carmen Dessiré González Bibiesca]([https://github.com/AngelesIB](https://www.linkedin.com/in/carmen-dessir%C3%A9-gonz%C3%A1lez-bibiesca-b72aa7258/)https://www.linkedin.com/in/carmen-dessir%C3%A9-gonz%C3%A1lez-bibiesca-b72aa7258/).  en Tecnolochicas PRO Summer Camp.
